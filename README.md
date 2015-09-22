@@ -1,2 +1,6 @@
-# HelloWorld
-This is my first GitHub Respository
+hello-World
+===================
+
+Hello Humans
+
+GuapoBot here. I am learning Github for my future development projects.
